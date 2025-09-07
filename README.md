@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Lara Alonso (aiadevop)</h1>
 <h3 align="center">🎯 Data Scientist in Training | Full Stack Developer | 10+ Years Leading Teams | Focused on Impact and Business Outcomes</h3>
 
-- 🔭 I’m currently working on [Project: Math Student Grade Prediction deployment Render](math_student_grade)
+- 🔭 I’m currently working on [Math Student Grade Prediction deployment on Render](https://github.com/Aiadevop/math_student_grade)
+  
+- 👯 I’m looking to collaborate on [Math Student Grade Prediction deployment on Streamlit](https://mathstudentgradedeployapp-wfdbf9xz5ma8v8pmfhwb2m.streamlit.app/)
 
-- 🌱 I’m currently learning **Deep Learning (PyTorch, TensorFlow)**
+- 🤝 I’m looking for help with [Educational SaaS Platform / Data Science Projects](https://www.lara-alonso.com)
 
-- 👯 I’m looking to collaborate on [Project: Math Student Grade Prediction deployment Streamlit](Launch App)
+- 👨‍💻 All of my projects are available at [GitHub Portfolio](https://github.com/Aiadevop)
 
-- 🤝 I’m looking for help with [Project: Educational SaaS Platform / Data Science Projects](www.lara-alonso.com)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Aiadevop](https://github.com/Aiadevop)
-
-- 📝 I regularly write articles on [https://www.lara-alonso.com/](https://www.lara-alonso.com/)
+- 📝 I regularly write articles on [GitHub Portfolio](https://github.com/Aiadevop)
 
 - 💬 Ask me about **Python, Pandas, Numpy, Scikit-learn, SQL, Spark, Data Visualization, Full Stack Development, React, Node.js, Laravel, APIs, Agile, Team Leadership**
 
-- 📫 How to reach me **linkedin.com/in/lara-alonso**
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/lara-alonso/)
 
 - 📄 Know about my experiences [I’m a Data Scientist in training and Full Stack Developer with a background in Industrial Engineering and over 10 years of management experience. I specialize in predictive modeling, data visualization, and building scalable web applications. My work bridges technical expertise and strategic business insight, turning data into actionable decisions and impactful solutions.](I’m a Data Scientist in training and Full Stack Developer with a background in Industrial Engineering and over 10 years of management experience. I specialize in predictive modeling, data visualization, and building scalable web applications. My work bridges technical expertise and strategic business insight, turning data into actionable decisions and impactful solutions.)
 
