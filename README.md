@@ -5,11 +5,9 @@
   
 - 👯 I’m looking to collaborate on [Training Model Wine Quality](https://github.com/Aiadevop/training_model_wine_quality)
 
-- 🤝 I’m looking for help with [Educational SaaS Platform / Data Science Projects](https://www.lara-alonso.com)
+- 🤝 I regularly write articles on  [Educational SaaS Platform / Data Science Projects](https://www.lara-alonso.com)
 
-- 👨‍💻 All of my projects are available at [GitHub Portfolio](https://github.com/Aiadevop?tab=repositories)
-
-- 📝 I regularly write articles on [GitHub Portfolio](https://github.com/Aiadevop)
+- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/Aiadevop?tab=repositories)
 
 - 💬 Ask me about **Python, Pandas, Numpy, Scikit-learn, SQL, Spark, Data Visualization, Full Stack Development, React, Node.js, Laravel, APIs, Agile, Team Leadership**
 
