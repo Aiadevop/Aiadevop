@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Pandas, Numpy, Scikit-learn, SQL, Spark, Data Visualization, Full Stack Development, React, Node.js, Laravel, APIs, Agile, Team Leadership**
 
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/lara-alonso/)
+- 📫 How to reach me [LaraAlonsoCV](https://www.canva.com/design/DAGIr6C2xA8/2_Ney2fAfUe72zzof-YrYg/view?utm_content=DAGIr6C2xA8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h39db8396d8)
 
 - 📄 Know about my experiences [I’m a Data Scientist in training and Full Stack Developer with a background in Industrial Engineering and over 10 years of management experience. I specialize in predictive modeling, data visualization, and building scalable web applications. My work bridges technical expertise and strategic business insight, turning data into actionable decisions and impactful solutions.](I’m a Data Scientist in training and Full Stack Developer with a background in Industrial Engineering and over 10 years of management experience. I specialize in predictive modeling, data visualization, and building scalable web applications. My work bridges technical expertise and strategic business insight, turning data into actionable decisions and impactful solutions.)
 
