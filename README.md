@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lara Alonso (aiadevop)</h1>
 <h3 align="center">🎯 Data Scientist in Training | Full Stack Developer | 10+ Years Leading Teams | Focused on Impact and Business Outcomes</h3>
 
-- 🔭 I’m currently working on [Project: Math Student Grade Prediction deployment Render](math_student_grade) https://math-student-grade.onrender.com/
+- 🔭 I’m currently working on [Project: Math Student Grade Prediction deployment Render](math_student_grade)
 
 - 🌱 I’m currently learning **Deep Learning (PyTorch, TensorFlow)**
 
