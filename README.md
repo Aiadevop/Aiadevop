@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lara Alonso (aiadevop)</h1>
 <h3 align="center">🎯 Data Scientist in Training | Full Stack Developer | 10+ Years Leading Teams | Focused on Impact and Business Outcomes</h3>
 
-- 🔭 I’m currently working on [Math Student Grade Prediction deployment on Render](https://github.com/Aiadevop/math_student_grade)
+- 🔭 I’m currently working on [Math Student Grade Prediction deployment on Render](https://github.com/Aiadevop/math_student_grade) [Streamlit App](https://mathstudentgradedeployapp-wfdbf9xz5ma8v8pmfhwb2m.streamlit.app/)
   
-- 👯 I’m looking to collaborate on [Math Student Grade Prediction deployment on Streamlit](https://mathstudentgradedeployapp-wfdbf9xz5ma8v8pmfhwb2m.streamlit.app/)
+- 👯 I’m looking to collaborate on [Training Model Wine Quality](https://github.com/Aiadevop/training_model_wine_quality)
 
 - 🤝 I’m looking for help with [Educational SaaS Platform / Data Science Projects](https://www.lara-alonso.com)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [I’m a Data Scientist in training and Full Stack Developer with a background in Industrial Engineering and over 10 years of management experience. I specialize in predictive modeling, data visualization, and building scalable web applications. My work bridges technical expertise and strategic business insight, turning data into actionable decisions and impactful solutions.](I’m a Data Scientist in training and Full Stack Developer with a background in Industrial Engineering and over 10 years of management experience. I specialize in predictive modeling, data visualization, and building scalable web applications. My work bridges technical expertise and strategic business insight, turning data into actionable decisions and impactful solutions.)
 
-- ⚡ Fun fact **I love turning complex data into actionable insights—and occasionally into games! 🎯**
+- ⚡ Fun fact **I love turning complex data into actionable insights—and occasionally into games! [Buscaminas](https://newbuscaminas.vercel.app/)🎯**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
