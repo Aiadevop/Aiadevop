@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [Educational SaaS Platform / Data Science Projects](https://www.lara-alonso.com)
 
-- 👨‍💻 All of my projects are available at [GitHub Portfolio](https://github.com/Aiadevop)
+- 👨‍💻 All of my projects are available at [GitHub Portfolio](https://github.com/Aiadevop?tab=repositories)
 
 - 📝 I regularly write articles on [GitHub Portfolio](https://github.com/Aiadevop)
 
